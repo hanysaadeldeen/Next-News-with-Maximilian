@@ -6,7 +6,7 @@ const Latestpage = () => {
   const latest = getLatestNews();
   return (
     <>
-      <h2>Latestpage</h2>
+      <h2>Latest page</h2>
       <Newslist news={latest} />
     </>
   );
