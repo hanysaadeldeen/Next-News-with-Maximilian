@@ -164,7 +164,7 @@ ul {
   margin: 0;
 }
 
-#archive-header ul {
+#archive-header ul li {
   display: flex;
   gap: 1rem;
   margin-bottom: 2rem;
